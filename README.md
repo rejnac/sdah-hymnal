@@ -2,7 +2,7 @@
 
 By sir enock,
 
-The repository contains databases of all SDAH Songs in English language also called Songs of Worship.
+The repository contains databases of all 695 SDAH Songs and 952 Songs of Worship Lyrics in English language.
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
