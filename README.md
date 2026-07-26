@@ -6,6 +6,7 @@ The repository contains databases of all 695 SDAH Songs and 952 Songs of Worship
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
+SDAH Hymnal is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 # Links to related projects
 
 1. Ekegusii: https://tinyurl.com/rejnac-ogotera
@@ -21,6 +22,6 @@ You can support us in correcting errors or donating towards a team of dedicated 
 
 "Preserving the Heritage of SDA worship materials" is our ultimate goal!
 
-SDAH Hymnal is part of several other databases and lyrics based projects that we are currently doing in different languages. 
+
 
 Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
