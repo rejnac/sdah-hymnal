@@ -15,6 +15,8 @@ Making SDA Worship Material accessible to everyone.
 Compiled: https://tinyurl.com/rejnac-compiled
 
 # VideoPsalm
+Install VideoPsalm and follow these 3 steps to start projecting;
+ 
 1. Download the (.vpc) file 
 2. Copy the downloaded (.vpc) file into your computer's VideoPsalm root folder (inside songbooks)
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
