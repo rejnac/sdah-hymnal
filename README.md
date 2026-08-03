@@ -4,7 +4,7 @@ By sir enock,
 
 The repository contains databases of all 695 SDAH Songs and 952 Songs of Worship Lyrics in English language.
 
-Disclaimer: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
+Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (opensource), exported in its native (.vpc) format, and extracted as (.Json) file.
 
 SDAH Hymnal is part of several other databases and lyrics based projects that we are currently doing in different languages. 
 
