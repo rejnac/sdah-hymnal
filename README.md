@@ -1,7 +1,5 @@
 # SDAH Hymnal from Rejnac Foundation.
 
-By sir enock,
-
 The repository contains databases of all 695 SDAH Songs and 952 Songs of Worship Lyrics in English language.
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
@@ -22,4 +20,4 @@ Compiled: https://tinyurl.com/rejnac-compiled
 3. Launch or restart VideoPsalm App for the changes to apply. Enjoy!!!
  
    
-Prepared by sir enock, director at Rejnac Group Inc. (https://rejnac.com).
+Prepared sir enock and friends (https://rejnac.org).
