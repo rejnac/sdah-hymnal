@@ -4,7 +4,7 @@ The repository contains databases of all 695 SDAH Songs and 952 Songs of Worship
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-SDAH Hymnal is part of several other SDA music lyrics under refining in different languages. 
+SDAH Hymnal is part of several other SDA music lyrics under refinement in different languages.  
 
 # Mission
 Making SDA Worship Material accessible to everyone.
