@@ -7,7 +7,7 @@ Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software 
 SDAH Hymnal is part of several other SDA music lyrics under refinement in different languages.  
 
 # Mission
-Making SDA Worship Material accessible to everyone.
+Enhancing Adventist worship in local languages.
 
 
 # Compilation
